@@ -2,7 +2,7 @@
 
 ReactMatch is an Android application that allows users to post and view rental information with photos and locations using the Mapbox API. Users can sign up, log in, update their rental information, reset their passwords, and manage account details. The app is developed using Java and XML for layout, with a Firebase database for data storage. The development environment used is Android Studio.
 
-![ReactMatch App Demo]([link_to_your_screen_recording_video.gif](https://github.com/AIsTushar/ReactMatch-RentalFinder-App/blob/master/Record.mp4))
+![ReactMatch App Demo]([link_to_your_screen_recording_video.gif](https://github.com/AIsTushar/ReactMatch-RentalFinder-App/blob/master/Record_new.mp4))
 
 ## Features
 
